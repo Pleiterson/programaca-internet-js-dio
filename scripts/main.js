@@ -128,9 +128,9 @@ function buttonClean(){
 
 function redirect(){
     // abre em uma outra janela
-    window.open("https://github.com/gean-costa/dio_javascript");
+    window.open("https://github.com/Pleiterson/programaca-internet-js-dio");
     // para abrir na mesma janela
-    // window.location.href = "https://github.com/gean-costa/dio_javascript";
+    // window.location.href = "https://github.com/Pleiterson/programaca-internet-js-dio";
 }
 
 function change(){
