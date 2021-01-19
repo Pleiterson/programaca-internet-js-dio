@@ -128,9 +128,9 @@ function buttonClean(){
 
 function redirect(){
     // abre em uma outra janela
-    window.open("https://github.com/Pleiterson/programaca-internet-js-dio");
+    window.open("https://github.com/Pleiterson/programacao-internet-js-dio");
     // para abrir na mesma janela
-    // window.location.href = "https://github.com/Pleiterson/programaca-internet-js-dio";
+    // window.location.href = "https://github.com/Pleiterson/programacao-internet-js-dio";
 }
 
 function change(){
